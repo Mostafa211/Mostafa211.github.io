@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Locations on My New Hugo Project</title>
+    <link>https://example.org/location/</link>
+    <description>Recent content in Locations on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2026 03:28:08 +0200</lastBuildDate>
+    <atom:link href="https://example.org/location/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Map</title>
+      <link>https://example.org/location/map/</link>
+      <pubDate>Wed, 11 Mar 2026 03:28:08 +0200</pubDate>
+      <guid>https://example.org/location/map/</guid>
+      <description>&lt;p&gt;Our location:&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>
